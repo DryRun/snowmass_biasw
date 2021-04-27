@@ -1,7 +1,7 @@
 ## Setup
 ```
 source /cvmfs/cms.cern.ch/cmsset_default.sh
-git clone git@github.com:cms-sw/genproductions
+git clone git@github.com:DryRun/genproductions -b biasweights
 ```
 
 ## Test
