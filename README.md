@@ -8,7 +8,7 @@ git clone git@github.com:DryRun/genproductions -b biasweights
 
 ## Test
 ```
-cd genproductions/bin/Madgraph5_aMCatNLO
+cd genproductions/bin/MadGraph5_aMCatNLO
 source submit_condor_gridpack_generation.sh source submit_condor_gridpack_generation.sh wjets ../../../cards/wjets_test
 ```
 
